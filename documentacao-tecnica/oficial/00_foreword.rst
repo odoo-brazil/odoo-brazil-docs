@@ -1,4 +1,9 @@
+=========
+Forewords
+=========
 
+Introduction
+============
 
 OpenERP is a rich development environment. Thanks to its Python and PostgreSQL
 bindings, and above all, its Object Relational Mapping (ORM), you can develop
