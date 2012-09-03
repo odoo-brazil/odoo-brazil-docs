@@ -1,4 +1,3 @@
-
 .. _book-develop-link:
 
 Developer Book
