@@ -1,6 +1,7 @@
 Infelizmente você nao esta autorisado a fazer essa açao.
 
 Hoje esse wiki aceita apenas o seguiente autores:
+
 *  Renato Lima
 *  Raphaël Valyi
 
