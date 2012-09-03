@@ -1,4 +1,3 @@
-
 .. index::
    single: OpenERP Book
 ..
