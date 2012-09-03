@@ -112,7 +112,7 @@ Here is an example on how to insert a new partner using PHP. This example makes 
 An example in Python
 ====================
 
-Example of creation of a partner and his address.
+Example of creation of a partner and their address.
 
 .. code-block:: python
 

@@ -13,7 +13,7 @@ The module is located in the extra_addons branch: https://code.launchpad.net/ope
 
 To use the module you need to make **codegen_openerp.py** accessible from dia, usually in your **/usr/share/dia/python** directory and make sure that it gets loaded once. To do it, just open dia and open a **Python Console** from the **Dialog Menu**, and type there "import codegen_openerp". If everything goes alright you will have a new option in your "Export..." dialog named "PyDia Code Generation (OpenERP)" that will create a zip module from your UML diagram.
 
-To install win Dia in windows, first install Python-2.3.5, then when you install Dia, you will have an option to install the python plug-in. After this, put the codegen_openerp.py file in C:\Program Files\Dia and you will have the export function in Dia.
+To install win Dia in windows, first install Python-2.3.5, then when you install Dia, you will have an option to install the python plug-in. After this, put the codegen_openerp.py file in **C:\\Program Files\\Dia** and you will have the export function in Dia.
 
 For further guidance to install Dia in Windows you can refer to this link	(http://openerpdev.blogspot.com/2009/11/rad-with-openerp.html)
 
@@ -52,7 +52,7 @@ The screen will look like
 
 .. image:: images/3.png
 
-After giving proper Server URL you can select Database available in selected server and then you can able to logged in as particular user.
+After giving proper Server URL you can select Database available in selected server and login as the given user.
 
 There is one additional functionality of changing server parameters by clicking on 'Change' button
 
@@ -66,14 +66,14 @@ You can open this dialog box by clicking on Open Report -> Open a new report
 .. image:: images/4.png
 
 By using above window you can select module for which you want to create report.
-This is first process to create new report,so you have to select module. By clicking on
+This is first process to create new report, so you have to select module. By clicking on
 'Use Module in Report' selected module will be used to create report.
 
 
 Add a loop
 ----------
 This functionality is used to create repeatIn statement in Open Report. You see this
-dialogbox by clicking on Open Report -> Add a loop from menubar or just on this
+dialog box by clicking on Open Report -> Add a loop from menubar or just on this
 button from toolbar.
 * The loop can be put into a table (the lines will then be repeated) or into an OpenOffice.org section.
 
@@ -103,7 +103,7 @@ Add an expression
 This functionality is used to create expression which we can not add by using fields in
 Open Report. You see this dialog box by clicking on OpenReport - >Add an expression from menubar.
 
-* Using the Expression button you can enter expressions in the Python language. These expressions can use all of the object's fields for their calculations.For example if you make a report on an order you can use the following expression:
+* Using the Expression button you can enter expressions in the Python language. These expressions can use all of the object's fields for their calculations. For example if you make a report on an order you can use the following expression:
 
 .. code-block:: python
 

@@ -91,7 +91,7 @@ Features
 -	Built-in tools for caching, encoding, sessions, authorization, static content, and many more
 -	A native mod_python adapter 
 -	A complete test suite 
--	Swappable and customizable...everything.
+-	Swappable and customisable... everything.
 -	Built-in profiling, coverage, and testing support.
 
 Consider these examples (**root** is conceptual, referring to the root of the document tree),
