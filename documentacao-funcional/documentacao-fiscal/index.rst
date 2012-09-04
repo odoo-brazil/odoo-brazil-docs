@@ -6,6 +6,7 @@ Configurando Impostos
 A configuração de impostos possui quatro fases bem claras:
 
 1. Códigos de Situação Tributária (CST) e Operação Fiscal (CFOP)
+1. [[documentacao-funcional/documentacao-fiscal/codigos-tributarios]]
 2. Alíquotas
 3. Posições Fiscais
 4. Regras para determinações automáticas
