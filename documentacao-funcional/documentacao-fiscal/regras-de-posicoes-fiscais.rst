@@ -6,13 +6,13 @@ A regra de posição fiscal, como o nome sugere, é a regra que o OpenERP irá s
 
 Operação de Venda Intra-estadutal:
 
-
+.. figure:: ../images/doc23_html_m21ab102c.png
 
 A regra acima diz o seguinte: Quando houver uma Categoria de Venda do estado do Paraná para o Estado do Paraná e o parceiro for contribuinte, use a Posição Fiscal "Venda para Dentro do Estado".
 
 Como as taxas inter-estaduais para RS, SC, PR, SP e RJ é de 12% e os demais estados é de 7%, façamos então o menor esforço e cadastremos uma regra para cada um destes estados e uma regra de exceção conforme abaixo:
 
-
+.. figure:: ../images/doc23_html_74eff9ae.png
 
 
 
