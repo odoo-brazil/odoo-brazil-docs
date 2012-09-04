@@ -7,7 +7,7 @@ Alíquotas
 A segunda fase da geração de impostos é a geração de alíquotas para as operações que deseja trabalhar.
 
 Códigos de Imposto
-____________________
+------------------------------
 
 Os códigos de imposto já são carregados no juntamente com o plano de contas. Estes dados já são disponibilizados nativamente no OpenERP e a localização Brasil se aproveita destes impostos para fazer a integração Fiscal X Contábil dos dados no OpenERP. Para conferir os dados, no menu Contabilidade acesse: Configuração - Contabilidade Financeira - Taxas - Códigos de Imposto:
 
@@ -16,7 +16,7 @@ Os códigos de imposto já são carregados no juntamente com o plano de contas. 
 
 
 Alíquotas
-_________
+--------------
 
 Ao carregar a localização Brasil já vem pré-carregado um bom número de alíquotas para os impostos disponíveis. Caso não exista uma taxa que você deseje utilizar é possível criar novas a partir do zero ou fazendo cópia de uma taxa pré-existente. Para Conferir os dados, no menu Contabilidade acesse: Configuração - Contabilidade Financeira - Taxas - Taxas
 
