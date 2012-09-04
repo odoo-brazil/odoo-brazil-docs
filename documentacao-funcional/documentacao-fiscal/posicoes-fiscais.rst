@@ -2,6 +2,8 @@
 Posições Fiscais
 ==========
 
+.. figure:: ../images/fiscal_doc_4.png
+
 A posição fiscal é o momento de união entre as CST, as CFOP e as taxas previamente configuradas. Nesta etapa criaremos posições fiscais para cada tipo de operação possível considerando as seguintes possibilidades:
 
 Origem do Produto: Nacional ou Exterior
@@ -13,7 +15,7 @@ Cada variação destas opções gera algum valor diferente nas informações fis
 
 Para acessar o cadastro de Posições Fiscais, no menu contabilidade acesse: Configuração - Contabilidade Financeira - Taxas - Posições Fiscais:
 
-
+.. figure:: ../images/doc23_html_m21e235c5.png
 
 Perceba que já são carregadas com a localização as operações de Venda e Revenda, porém estão com várias informações incompletas. Vamos, então, completá-las:
 
