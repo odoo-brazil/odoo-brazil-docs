@@ -1,5 +1,5 @@
-Documentação Fiscal
-===================
+Parametrização Fiscal do OpenERP
+===========================
 
 Configurando Impostos
 
