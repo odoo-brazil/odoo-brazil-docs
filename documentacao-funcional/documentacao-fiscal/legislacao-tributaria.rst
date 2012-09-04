@@ -18,9 +18,9 @@ padronizar os procedimentos.
  
 Tratemos agora cada imposto de forma isolada analisando suas características:
 
-*  IPI
-*  ICMS
-*  Substituição Tributária
-*  CFOP
-*  ISS
-*  PIS e COFINS
+*  [[IPI|/documentacao-funcional/documentacao-fiscal/ipi]
+*  [[ICMS|/documentacao-funcional/documentacao-fiscal/icms]]
+*  [[Substituição Tributária|/documentacao-funcional/documentacao-fiscal/substitucao-tributaria]]
+*  [[CFOP|/documentacao-funcional/documentacao-fiscal/cfop]]
+*  [[ISS|/documentacao-funcional/documentacao-fiscal/iss]]
+*  [[PIS e COFINS|/documentacao-funcional/documentacao-fiscal/pis-cofins]]
