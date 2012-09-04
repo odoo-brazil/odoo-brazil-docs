@@ -4,12 +4,14 @@ Códigos Tributários
 
 Os códigos de situação tributária, ou CSTs são informações obrigatórias na emissão de uma NFe e o correto preenchimento desta parametrização vai evitar complicações com o fisco. Vamos então iniciar com as etapas para configuração das CSTs seguindo o quadro abaixo:
 
-
+.. figure:: ../images/fiscal_doc_2.png
 
 Diário
 -------
 
 A contabilidade do OpenERP é divida em diários. Estes diários definem diversas informações dos lançamentos contábeis gerados e é a primeira etapa das configurações. No menu Contabilidade, acesse: Configuração - Contabilidade Financeira - Diários - Diários
+
+.. figure:: ../images/doc23_html_m525859c9.png
 
 
 
