@@ -30,8 +30,9 @@ COFINS
 ICMS
 É a partir desta informação que os impostos são agrupados. Isto aumenta a flexibilidade fazendo com que, por exemplo, os impostos de ICMS interno, externo e de Substituição sejam contabilizados separadamente, porém lançados todos para o imposto ICMS na NFe garantindo, assim, uma maior flexibilidade na composição dos impostos.
 
+
 Classificações Fiscais (NCM)
----------------------------------
+---------------------------------------------
 
 As Classificações Fiscais são informações de uso genérico no OpenERP e são utilizados em vários países. No Brasil, esta classificação é chamada de Nomenclatura Comum do Mercosul (NCM). São nestas operações que fazemos as primeiras definições de alíquotas, principalmente ao que se refere o IPI. Demais alíquotas irão depender de outros fatores como Origem, Destino, Tipo de Parceiro, etc, porém precisamos deixar preparados os impostos utilizando-se de impostos coringa para a determinação dinâmica.
 
@@ -60,8 +61,9 @@ Dica: Se tiver dúvida com relação ao NCM que deverá utilizar nos produtos qu
 
 Dica 2: Exija sempre esta informação de seus fornecedores, isto irá lhe poupar de várias dores de cabeça com o fisco futuramente.
 
+
 Produtos
------------
+--------------
 
 Feita a correta parametrização de taxas de IPI e de demais impostos coringa, agora basta que liguemos a classificação fiscal aos produtos que utilizaremos para os testes deste manual. Para acessar o cadastro de produtos, no menu Vendas acesse: Produtos - Produtos
 
