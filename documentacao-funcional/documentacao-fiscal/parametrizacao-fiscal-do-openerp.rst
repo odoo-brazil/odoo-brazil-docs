@@ -12,4 +12,4 @@ A configuração de impostos possui quatro fases bem claras:
 
 Infelizmente, as regras tributárias no Brasil são muito complexas. Espero que esse manual simplifique e esclareça as etapas destas configurações. Abaixo um rápido fluxograma demonstrando as etapas das parametrizações:
 
-.. figure:: ../images/fiscal_doc_1.png
+.. figure:: images/fiscal_doc_1.png
