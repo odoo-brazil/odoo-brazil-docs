@@ -23,19 +23,20 @@ Nesta etapa iremos configurar uma seqüência que será única para todos os di�
 
 Selecione o Diário de Vendas (SAJ). No campo Seqüência Interna, clique na lupa.
 
-
+.. figure:: images/doc23_html_76a71920.png
 
 Clique no botão Novo, para criar uma nova seqüência conforme abaixo:
 
-
+.. figure:: images/doc23_html_48028901.png
 
 Clique em OK, e salve as informações do diário.
 
-
+.. figure:: images/doc23_html_4785bd9d.png
 
 Na aba l10n BR marque a opção Gera Financeiro.
 
 Repita esta etapa também para os diários SCNJ, EXJ, ECNJ.
+
 
 Categoria de Operação Fiscal
 ----------------------------------
