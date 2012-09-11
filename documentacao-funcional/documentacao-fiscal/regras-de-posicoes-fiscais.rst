@@ -14,24 +14,47 @@ Como as taxas inter-estaduais para RS, SC, PR, SP e RJ é de 12% e os demais est
 
 .. figure:: images/doc23_html_74eff9ae.png
 
+.. figure:: images/doc23_html_70dca382.png
 
+.. figure:: images/doc23_html_722b43a7.png
 
-
-
+.. figure:: images/doc23_html_m223e848.png
 
 
 Agora regra para os estados com alíquota a 7%
 
-
+.. figure:: images/doc23_html_682dad9b.png
 
 Perceba que o campo Para o Estado está em branco fazendo com que, caso não ache a regra para o caso mais específico (cadastrado para os estados com alíquota a 12%), encontra então esta regra.
 
 Os próximos passos são a criação de Bonificação e Compra. Não iremos tratar revenda neste documento, mas segue a mesma regra.
 
+.. figure:: images/doc23_html_m16e28551.png
 
+.. figure:: images/doc23_html_mc831020.png
+
+.. figure:: images/doc23_html_46e253e5.png
+
+.. figure:: images/doc23_html_751ead62.png
+
+.. figure:: images/doc23_html_m2f1f63cf.png
+
+.. figure:: images/doc23_html_m14908b41.png
 
 E finalizando, as operações de compras:
 
+.. figure:: images/doc23_html_4a78c74c.png
 
+.. figure:: images/doc23_html_6e2b89e0.png
+
+.. figure:: images/doc23_html_m1ff8c175.png
+
+.. figure:: images/doc23_html_m3b40912f.png
+
+.. figure:: images/doc23_html_6f249c04.png
+
+.. figure:: images/doc23_html_ea0320c.png
 
 Se você seguiu a risca as configurações deste manual, você deverá possuir uma lista de regras conforme abaixo:
+
+.. figure:: images/doc23_html_35fcf6.png
