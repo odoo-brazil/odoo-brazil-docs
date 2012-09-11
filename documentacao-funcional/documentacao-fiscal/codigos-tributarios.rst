@@ -84,7 +84,7 @@ Note que aqui o número de configurações já é maior, mas não se apavore! Vo
 
 A carga de dados de demonstração já traz algumas operações, porém não está completo. Vamos primeiramente completar as informações das operações fiscais que já vieram carregadas.
 
-
+.. figure:: images/doc23_html_5f60872f.png
 
 Para o correto preenchimento, algumas informações importantes:
 
@@ -94,21 +94,22 @@ Neste manual não iremos tratar ICMS de Substituição, pretendo criar um docume
 Cadastre as CSTs de IPI somente para operações de produto produzido, pois operação de revenda não há incidência de IPI.
 O preenchimento do NCM não é necessário. Ele será necessário caso você queira configurar uma CST específica para um NCM sem a necessidade de criar uma nova operação fiscal.
 
+.. figure:: images/doc23_html_3fcb0a86.png
 
 Atualizadas todas as Operações Fiscais pré-cadastradas, vamos criar então, as operações para Bonificação e Compra seguindo a mesma lógica utilizada para as operações fiscais de venda. Outra boa dica é aproveitar a opção de cópia (Menu Formulário - Duplicar) que facilita bastante o trabalho de geração destas informações.
 
-
+.. figure:: images/doc23_html_m7cac3217.png
 
 Bonificação Dentro do Estado
 
-
+.. figure:: images/doc23_html_70ac2be4.png
 
 Bonificação fora do Estado
 
-
+.. figure:: images/doc23_html_6711a1f0.png
 
 Compra de Dentro do Estado para Industrialização
 
-
+.. figure:: images/doc23_html_723c1813.png
 
 Compra de Fora do Estado para Industrialização
