@@ -20,10 +20,11 @@ Alíquotas
 
 Ao carregar a localização Brasil já vem pré-carregado um bom número de alíquotas para os impostos disponíveis. Caso não exista uma taxa que você deseje utilizar é possível criar novas a partir do zero ou fazendo cópia de uma taxa pré-existente. Para Conferir os dados, no menu Contabilidade acesse: Configuração - Contabilidade Financeira - Taxas - Taxas
 
+.. figure:: images/doc23_html_6be18a3.png
 
+.. figure:: images/doc23_html_3b1fea44.png
 
-
-
+.. figure:: images/doc23_html_m3b0059d5.png
 
 
 Uma informação essencial para a correta geração da NFe é a informação do domínio para os impostos que serão destacados na nota fiscal, a saber:
@@ -42,6 +43,7 @@ As Classificações Fiscais são informações de uso genérico no OpenERP e sã
 
 Para visualizar estas informações, no menu Contabilidade acesse: Configuração - Contabilidade Financeira - Classificações Fiscais dos Produtos.
 
+.. figure:: images/doc23_html_m3a5093e4.png
 
 
 Como exemplo, utilizaremos produtos disponíveis nos dados de demonstração e faremos uma configuração de alíquotas para estes produtos. A lista abaixo exibe os NCMS dos produtos que utilizaremos para exemplo:
@@ -50,14 +52,15 @@ Mouse (MOU): 8471.60.53
 Teclado (KEYA): 8471.60.52
 PC Completo com periféricos (PC0): 8471.30.12
 
+.. figure:: images/doc23_html_m4822f294.png
 
 8471.60.52: Perceba que somente os impostos de Vendas estão preenchidos, porém você já pode aproveitar e preencher os impostos de compra. Replique os mesmos impostos disponíveis na aba de vendas para a aba de compras. Perceba que o único imposto que já está pré-fixada a taxa é o IPI. Os demais estão utilizando impostos coringas, deixe como está no exemplo que você entenderá como estes impostos serão trocados dinamicamente. Repita o processo para os outros NCM que utilizaremos como exemplo.
 
-
+.. figure:: images/doc23_html_m161c2023.png
 
  8471.60.53
 
-
+.. figure:: images/doc23_html_669d9fd2.png
 
  8471.30.12
 
@@ -71,14 +74,14 @@ Produtos
 
 Feita a correta parametrização de taxas de IPI e de demais impostos coringa, agora basta que liguemos a classificação fiscal aos produtos que utilizaremos para os testes deste manual. Para acessar o cadastro de produtos, no menu Vendas acesse: Produtos - Produtos
 
-
+.. figure:: images/doc23_html_669d9fd2.png
 
 Mouse (MOU): 8471.60.53
 
-
+.. figure:: images/doc23_html_5d46c36a.png
 
 Teclado (KEYA): 8471.60.52
 
-
+.. figure:: images/doc23_html_m790c1556.png
 
 PC Completo com periféricos (PC0): 8471.30.12
