@@ -17,6 +17,8 @@ A contabilidade do OpenERP é divida em diários. Estes diários definem diversa
 
 Nesta etapa iremos configurar uma seqüência que será única para todos os diários que podem emitir notas fiscais.
 
+.. figure:: images/doc23_html_285013bb.png
+
 
 
 Selecione o Diário de Vendas (SAJ). No campo Seqüência Interna, clique na lupa.
