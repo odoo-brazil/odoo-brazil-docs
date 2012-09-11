@@ -19,7 +19,7 @@ Para acessar o cadastro de Posições Fiscais, no menu contabilidade acesse: Con
 
 Perceba que já são carregadas com a localização as operações de Venda e Revenda, porém estão com várias informações incompletas. Vamos, então, completá-las:
 
-
+.. figure:: images/doc23_html_m71782af3.png
 
 É neste momento, então que vamos acertar as alíquotas corretas para a geração e cálculo dos impostos. A regra é bem simples: Quando determinada a posição fiscal, os impostos vindos do NCM do produto serão substituídos de acordo com a regra descrita na tabela Mapeamento de Impostos. Abaixo o detalhamento das substituições:
 
@@ -32,38 +32,42 @@ Importante! As substituições só ocorrerão se os impostos coringas estiverem 
 
 Vamos repetir as configurações para as demais Posições Fiscais:
 
-
+.. figure:: images/doc23_html_m261fe965.png
 
 Perceba que nesta opção de venda interestadual, o ICMS que foi anulado foi o ICMS Interno e o substituído foi o ICMS Externo.
 
+.. figure:: images/doc23_html_m59b0e94e.png
 
-
+.. figure:: images/doc23_html_m7f24b076.png
 
 
 Atenção! Na operação de revenda não há incidência de IPI, portanto para a correta configuração elimine a informação de IPI na Classificação Fiscal para os produtos que você irá revender. Caso você possua casos em que o mesmo produto pode ser produzido ou somente comercializado, você pode resolver este problema incluindo mais um mapeamento: IPI 15% - <vazio>; nas operações de revenda.
 
+.. figure:: images/doc23_html_7569be59.png
 
-
+.. figure:: images/doc23_html_175dd5d5.png
 
 
 Vamos agora criar as bonificações. Para facilitar esta etapa, vamos criar a partir de cópias das operações de vendas já cadastradas:
 
+.. figure:: images/doc23_html_m701629e6.png
 
+.. figure:: images/doc23_html_m2bd16531.png
 
-
-
+.. figure:: images/doc23_html_728d9627.png
 
 
 Vamos fazer o mesmo para as operações de compra:
 
+.. figure:: images/doc23_html_4dbb8cb7.png
 
+.. figure:: images/doc23_html_66a3fab4.png
 
-
-
+.. figure:: images/doc23_html_4297ef19.png
 
 
 Se você seguiu a risca as dicas deste manual suas posições fiscais devem ter ficado assim:
 
-
+.. figure:: images/doc23_html_12e0dc7.png
 
 O próximo passo, então é a criação das regras para determinação automática das posições fiscais em suas operações.
