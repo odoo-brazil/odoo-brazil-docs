@@ -53,15 +53,15 @@ Compra
 
 Crie as três categorias conforme as imagens abaixo. Atenção para os diários e para os flags Usado em Vendas, Usado nas Compras, Usado nas Notas Fiscais e Usado nas Listas de Separação.
 
-
+.. figure:: images/doc23_html_m5b78ad85.png
 
 Detalhes da configuração da categoria de Venda
 
-
+.. figure:: images/doc23_html_m6dc27b9f.png
 
 Detalhes da configuração da categoria de Compra
 
-
+.. figure:: images/doc23_html_7b2a3eb1.png
 
 Detalhes da configuração da categoria de Bonificação
 
